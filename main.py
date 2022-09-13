@@ -197,7 +197,7 @@ def submit(jid, jktoken, todayid):
                                                                                                                 "c018"]},
         {"zjlx": 3, "list": [{"column": "c003", "content": "未接种"}, {"column": "c004", "content": "已接种第一针"},
                              {"column": "c005", "content": "已接种第二针"},
-                             {"column": "c006", "content": "已接种第三针"}], "value": ["c005"]}, {"zjlx": 3, "list": [
+                             {"column": "c006", "content": "已接种第三针"}], "value": ["c006"]}, {"zjlx": 3, "list": [
             {"column": "c007", "content": "绿码"},
             {"column": "c008", "content": "灰码（请在到威海后第1、第2、第4天各完成1次核酸检测）"},
             {"column": "c009", "content": "黄码"}, {"column": "c010", "content": "红码"}], "value": ["c007"]},
